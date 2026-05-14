@@ -8,7 +8,7 @@ function App() {
         <h1>Testando Vercel</h1>
       </header>
       <body>
-        <h2>Testando um useRef</h2>
+        <h2>qualquer coisa</h2>
       </body>
     </>
   )
